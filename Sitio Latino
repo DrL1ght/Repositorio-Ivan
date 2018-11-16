@@ -1,0 +1,117 @@
+Sitio Latino
+
+
+\\\\\\\\\\----- Reservas -----//////////
+Validar que en la reserva de pais España muestre el asociado "BDLATINOES"
+Validar que en la reserva de pais Ecuador muestre el asociado "BDLATINOEC"
+Validar que en la reserva de pais Chile muestre el asociado "BDLATINOCL"
+Validar que en la reserva de pais Perú muestre el asociado "BDLATINOPE"
+Validar que en la reserva de pais Uruguay muestre el asociado "BDLATINOUY"
+
+\\\\\\\\\\----- Seleccion de pais en home -----//////////
+Validar que se muestre bandera de España, moneda "Euros" y simbolo de euros
+Validar que se muestre bandera de Ecuador, moneda "Dolar Ecuatoriano" y simbolo de dolar ecuatoriano
+Validar que se muestre bandera de Chile, moneda "Pesos Chilenos" y simbolo de pesos chilenos
+Validar que se muestre bandera de Perú, moneda "Soles Peruanos" y simbolo de soles peruanos
+Validar que se muestre bandera de Uruguay, moneda "Pesos Uruguayos" y simbolo de pesos uruguayos
+
+
+\\\\\\\\\\----- Mostrar tooltip de "La reserva se cobrar en dolares" en el ResumeBox -----//////////
+Mostrar tooltip de "La reserva se cobra en dolares" en sitio España en el ResumeBox
+Mostrar tooltip de "La reserva se cobra en dolares" en sitio Ecuador en el ResumeBox
+Mostrar tooltip de "La reserva se cobra en dolares" en sitio Chile en el ResumeBox
+Mostrar tooltip de "La reserva se cobra en dolares" en sitio Perú en el ResumeBox
+Mostrar tooltip de "La reserva se cobra en dolares" en sitio Uruguay en el ResumeBox
+
+\\\\\\\\\\----- Validar información dentro del tooltip de "La reserva se cobrara en dolares" en el ResumeBox -----//////////
+Validar informacion dentro del tooltip de "La reserva se cobra en dolares" en sitio España en el ResumeBox
+Validar informacion dentro del tooltip de "La reserva se cobra en dolares" en sitio Ecuador en el ResumeBox
+Validar informacion dentro del tooltip de "La reserva se cobra en dolares" en sitio Chile en el ResumeBox
+Validar informacion dentro del tooltip de "La reserva se cobra en dolares" en sitio Perú en el ResumeBox
+Validar informacion dentro del tooltip de "La reserva se cobra en dolares" en sitio Uruguay en el ResumeBox
+
+\\\\\\\\\\----- Mostrar todo el flujo la moneda correspondiente -----//////////
+Seleccionar sitio España y mostrar durante todo el flujo de compra el tipo de moneda "Euros"
+Seleccionar sitio Ecuador y mostrar durante todo el flujo de compra el tipo de moneda "Dolar Ecuatoriano"
+Seleccionar sitio Chile y mostrar durante todo el flujo de compra el tipo de moneda "Pesos chilenos"
+Seleccionar sitio Perú y mostrar durante todo el flujo de compra el tipo de moneda "Soles Peruanos"
+Seleccionar sitio Uruguay y mostrar durante todo el flujo de compra el tipo de moneda "Pesos Uruguayos"
+
+\\\\\\\\\\----- Validar conversion en dolares en el ResumeBox -----//////////
+Validar conversión de Euros a Dolares en el ResumeBox
+Validar conversión de Dolares Ecuatorianos a Dolares en el ResumeBox
+Validar conversión de Pesos Chilenos a Dolares en el ResumeBox
+Validar conversión de Soles Peruanos a Dolares en el ResumeBox
+Validar conversión de Pesos Uruguayos a Dolares en el ResumeBox
+
+\\\\\\\\\\----- No mostrar dos formas de pago -----//////////
+No mostrar dos formas de pago en pais España
+No mostrar dos formas de pago en pais Ecuador
+No mostrar dos formas de pago en pais Chile
+No mostrar dos formas de pago en pais Perú
+No mostrar dos formas de pago en pais Uruguay
+
+\\\\\\\\\\----- No mostrar dos formas de pago -----//////////
+
+\\\\\\\\\\----- Mostrar solo tarjetas Visa, Mastercard y AmericanExpress -----//////////
+Mostrar solo VISA, MASTERCARD y AMEX en España
+Mostrar solo VISA, MASTERCARD y AMEX en Ecuador
+Mostrar solo VISA, MASTERCARD y AMEX en Chile
+Mostrar solo VISA, MASTERCARD y AMEX en Perú
+Mostrar solo VISA, MASTERCARD y AMEX en Uruguay
+
+\\\\\\\\\\----- Pago en una sola exhibición -----//////////
+Pago en una sola exhibición en España
+Pago en una sola exhibición en Ecuador
+Pago en una sola exhibición en Chile
+Pago en una sola exhibición en Perú
+Pago en una sola exhibición en Uruguay
+
+\\\\\\\\\\----- Validar datos de facturación -----//////////
+Validar datos de facturación en España
+Validar datos de facturación en Ecuador
+Validar datos de facturación en Chile
+Validar datos de facturación en Perú
+Validar datos de facturación en Uruguay
+
+\\\\\\\\\\----- No mostrar pais seleccionada en Datos del pago -----//////////
+Quitar la preselección de pais en España
+Quitar la preselección de pais en Ecuador
+Quitar la preselección de pais en Chile
+Quitar la preselección de pais en Perú
+Quitar la preselección de pais en Uruguay
+
+\\\\\\\\\\----- No mostrar Disney, Universal ni Ofertas en la barra de producto -----//////////
+No mostrar landings (Disney, Universal y Ofertas) en España
+No mostrar landings (Disney, Universal y Ofertas) en Ecuador
+No mostrar landings (Disney, Universal y Ofertas) en Chile
+No mostrar landings (Disney, Universal y Ofertas) en Perú
+No mostrar landings (Disney, Universal y Ofertas) en Uruguay
+
+\\\\\\\\\\----- Mostrar números telefónicos en boton "¡Reserva por teléfono!" -----//////////
+Mostrar boton "¡Reserva por teléfono!" y validar números telefonicos en España
+Mostrar boton "¡Reserva por teléfono!" y validar números telefonicos en Ecuador
+Mostrar boton "¡Reserva por teléfono!" y validar números telefonicos en Chile
+Mostrar boton "¡Reserva por teléfono!" y validar números telefonicos en Perú
+Mostrar boton "¡Reserva por teléfono!" y validar números telefonicos en Uruguay
+
+\\\\\\\\\\----- Validar salto a ficha desde Trivago -----//////////
+Validar salto de Trivago a SitioLatino para sitio España
+Validar salto de Trivago a SitioLatino para sitio Ecuador
+Validar salto de Trivago a SitioLatino para sitio Chile
+Validar salto de Trivago a SitioLatino para sitio Peru
+Validar salto de Trivago a SitioLatino para sitio Uruguay
+
+\\\\\\\\\\----- Validar tarifa desde el salto de Trivago a SitioLatino -----//////////
+Validar tarifa desde Trivago a SitioLatino en España
+Validar tarifa desde Trivago a SitioLatino en Ecuador
+Validar tarifa desde Trivago a SitioLatino en Chile
+Validar tarifa desde Trivago a SitioLatino en Peru
+Validar tarifa desde Trivago a SitioLatino en Uruguay
+
+\\\\\\\\\\----- Validar parametros en la url -----//////////
+Mostrar los parametros correspondientes de moneda y contrato al saltar de Trivago a SitioLatino para España
+Mostrar los parametros correspondientes de moneda y contrato al saltar de Trivago a SitioLatino para Ecuador
+Mostrar los parametros correspondientes de moneda y contrato al saltar de Trivago a SitioLatino para Chile
+Mostrar los parametros correspondientes de moneda y contrato al saltar de Trivago a SitioLatino para Peru
+Mostrar los parametros correspondientes de moneda y contrato al saltar de Trivago a SitioLatino para Uruguay
